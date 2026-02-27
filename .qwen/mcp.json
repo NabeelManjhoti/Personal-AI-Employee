@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "filesystem",
+      "command": "node",
+      "args": ["@modelcontextprotocol/server-filesystem"],
+      "env": {
+        "VAULT_PATH": "F:/Personal-AI-Employee/AI_Employee_Vault"
+      }
+    }
+  ]
+}

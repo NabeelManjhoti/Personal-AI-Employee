@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    },
+    "ai-employee-read-vault": {
+      "source": "./.qwen/skills/ai-employee-read-vault",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-write-vault": {
+      "source": "./.qwen/skills/ai-employee-write-vault",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-analyze-task": {
+      "source": "./.qwen/skills/ai-employee-analyze-task",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-create-plan": {
+      "source": "./.qwen/skills/ai-employee-create-plan",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-move-file": {
+      "source": "./.qwen/skills/ai-employee-move-file",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-check-approval": {
+      "source": "./.qwen/skills/ai-employee-check-approval",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    },
+    "ai-employee-update-dashboard": {
+      "source": "./.qwen/skills/ai-employee-update-dashboard",
+      "sourceType": "local",
+      "computedHash": "bronze-tier-v0.1"
+    }
+  }
+}
